@@ -1,6 +1,8 @@
 LinqToSqlRetry
 ==============
 
+Available on NuGet: https://www.nuget.org/packages/LinqToSqlRetry/
+
 A simple library to help manage retries in LINQ to SQL. This is particularly important in cloud-based infrastructures like Azure where transient failures are not uncommon. And despite the popularity of Entity Framework, Dapper, and other ORM or data access libraries, there is still a place for simple LINQ to SQL code.
 
 Retry logic is provided via extension methods, so you will need to bring the `LinqToSqlRetry` namespace into scope in every file you need retry logic:
