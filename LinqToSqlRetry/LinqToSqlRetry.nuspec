@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>LinqToSqlRetry</id>
+    <version>$version$</version>
+    <title>LinqToSqlRetry</title>
+    <authors>Dave Glick</authors>
+    <owners>Dave Glick</owners>
+    <licenseUrl>https://github.com/somedave/LinqToSqlRetry/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/somedave/LinqToSqlRetry</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple library to help manage retries in LINQ to SQL.</description>
+    <copyright>Copyright 2014</copyright>
+    <tags>LinqToSQL Linq SQL</tags>
+  </metadata>
+</package>
