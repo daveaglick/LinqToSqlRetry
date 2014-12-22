@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Class="TestDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="" Member="TestObjects">
+    <Type Name="TestObject">
+      <Column Name="String" Type="System.String" CanBeNull="false" />
+      <Column Name="DateTime" Member="Number" Storage="_DateTime" Type="System.Int32" CanBeNull="false" />
+      <Column Name="Bool" Type="System.Boolean" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
